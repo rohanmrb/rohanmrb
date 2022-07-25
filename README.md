@@ -22,7 +22,6 @@
 
 [<img align="center" alt="Rohan | LinkedIn" height="42px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" />][linkedin]
 [<img align="center" alt="Rohan | Mail" height="47px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimelines.ai%2Fwp-content%2Fuploads%2F2019%2F12%2Flogo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png&f=1&nofb=1" />][@rohan]
-[<img align="center" alt="Rohan | Discord" height="47px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1" />][discord]
 
 
 
